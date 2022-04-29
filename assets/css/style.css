@@ -1,0 +1,43 @@
+body {
+	background-image: url("/assets/images/bg.png");
+	background-size: cover;
+	height: 95vh;
+}
+h1 {
+  color:#eceff4;
+  font-size: 35px;
+  
+}
+h2 {
+  color:#eceff4;
+  font-size: 25px;
+}
+h3 {
+  color:#eceff4;
+  font-size: 23px;
+}
+h4 {
+  color:#eceff4;
+  font-size: 20px;
+}
+h5 {
+  color:#eceff4;
+  font-size: 18px;
+}
+h6 {
+  color:#eceff4;
+  font-size: 15px;
+}
+body {
+  background-color: #2E3440;
+  text-align: center;
+}
+a {
+    color: #81A1C1;
+    font-size: 20px;
+    text-decoration: none;
+}
+p { 
+  color:#eceff4; 
+  font-size: 20px;
+}

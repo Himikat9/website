@@ -1,0 +1,14 @@
+{
+    "name": "Himikaturu's Home",
+    "short_name": "Himikaturu's Home",
+    "icons": [
+        {
+            "src": "/assets/site-icon/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#2e3440",
+    "background_color": "#2e3440",
+    "display": "standalone"
+}

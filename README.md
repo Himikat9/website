@@ -1,9 +1,5 @@
-# Himikaturu's Website Source Code
+Himikaturu's Website Official Source code 
 
-### License
+This Project, Is Hosted on Github Pages & Is Source Is Left Here
 
-GNU General Public License v3.0
-
-### QUESTIONS, PROBLEMS
-
-If you have any questions or problems, You can make an issue on github
+[License](https://github.com/Himikat9/alisyus.xyz/blob/main/LICENSE)

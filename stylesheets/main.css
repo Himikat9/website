@@ -1,7 +1,7 @@
 body {
 	background-image: url("/assets/images/bg.png");
 	background-size: cover;
-	height: 200vh;
+	height: 100vh;
 }
 h1 {
   color:#eceff4;

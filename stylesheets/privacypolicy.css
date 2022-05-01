@@ -6,7 +6,6 @@ body {
 h1 {
   color:#eceff4;
   font-size: 35px;
-  
 }
 h2 {
   color:#eceff4;
@@ -32,9 +31,9 @@ body {
   background-color: #2E3440;
 }
 a {
-    color: #81A1C1;
-    font-size: 20px;
-    text-decoration: none;
+  color: #81A1C1;
+  font-size: 20px;
+  text-decoration: none;
 }
 p { 
   color:#eceff4; 

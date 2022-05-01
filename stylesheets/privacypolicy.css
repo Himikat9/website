@@ -1,31 +1,10 @@
-body {
-	background-image: url("/assets/images/bg.png");
-	background-size: cover;
-	height: 200vh;
-}
 h1 {
   color:#eceff4;
   font-size: 35px;
 }
-h2 {
-  color:#eceff4;
-  font-size: 25px;
-}
 h3 {
   color:#eceff4;
-  font-size: 23px;
-}
-h4 {
-  color:#eceff4;
   font-size: 20px;
-}
-h5 {
-  color:#eceff4;
-  font-size: 18px;
-}
-h6 {
-  color:#eceff4;
-  font-size: 15px;
 }
 body {
   background-color: #2E3440;
@@ -41,4 +20,7 @@ p {
 }
 hr {
   color:#434c5e
+}
+hr.new4 {
+  border: 1px solid #4c566a;
 }

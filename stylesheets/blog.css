@@ -1,10 +1,25 @@
+@font-face{ font-family:RobotoMono-Bold; src:url(/assets/fonts/RobotoMono-Bold.ttf); }
+@font-face{ font-family:RobotoMono-BoldItalic; src:url(/assets/fonts/RobotoMono-BoldItalic.ttf); }
+@font-face{ font-family:RobotoMono-ExtraLight; src:url(/assets/fonts/RobotoMono-ExtraLight.ttf); }
+@font-face{ font-family:RobotoMono-ExtraLightItalic; src:url(/assets/fonts/RobotoMono-ExtraLightItalic.ttf); }
+@font-face{ font-family:RobotoMono-Italic; src:url(/assets/fonts/RobotoMono-Italic.ttf); }
+@font-face{ font-family:RobotoMono-Light; src:url(/assets/fonts/RobotoMono-Light.ttf); }
+@font-face{ font-family:RobotoMono-LightItalic; src:url(/assets/fonts/RobotoMono-LightItalic.ttf); }
+@font-face{ font-family:RobotoMono-Medium; src:url(/assets/fonts/RobotoMono-Medium.ttf); }
+@font-face{ font-family:RobotoMono-MediumItalic; src:url(/assets/fonts/RobotoMono-MediumItalic.ttf); }
+@font-face{ font-family:RobotoMono-Regular; src:url(/assets/fonts/RobotoMono-Regular.ttf); }
+@font-face{ font-family:RobotoMono-SemiBold; src:url(/assets/fonts/RobotoMono-SemiBold.ttf); }
+@font-face{ font-family:RobotoMono-SemiBoldItalic; src:url(/assets/fonts/RobotoMono-SemiBoldItalic.ttf); }
+
 h1 {
   color:#eceff4;
   font-size: 35px;
+  font-family: "RobotoMono-Bold";
 }
 h2 {
   color:#eceff4;
-  font-size: 30px;
+  font-size: 25px;
+  font-family: "RobotoMono-Bold";
 }
 body {
   background-color: #2E3440;
@@ -14,10 +29,12 @@ a {
   color: #81A1C1;
   font-size: 20px;
   text-decoration: none;
+  font-family: "RobotoMono-Bold";
 }
 p { 
   color:#d8dee9; 
   font-size: 20px;
+  font-family: "RobotoMono-Bold";
 }
 hr.new4 {
   border: 1px solid #4c566a;

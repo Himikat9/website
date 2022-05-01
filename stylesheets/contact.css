@@ -1,0 +1,26 @@
+body {
+  background-image: url("/assets/images/bg.png");
+  background-size: cover;
+  height: 100vh;
+}
+h1 {
+  color:#eceff4;
+  font-size: 35px;
+}
+h2 {
+  color:#eceff4;
+  font-size: 30px;
+}
+body {
+  background-color: #2E3440;
+}
+a {
+  color: #81a1c1;
+  font-size: 23px;
+  text-decoration: none;
+}
+p {
+  color: #eceff4;
+  font-size: 23px;
+  text-decoration: none;
+}

@@ -23,7 +23,7 @@ h1 {
 h2, h3 {
   color:#eceff4;
   font-size: 25px;
-  font-family: "RobotoMono-Bold";
+  font-family: "RobotoMono-Light";
 }
 a {
   color: #81A1C1;
@@ -34,5 +34,9 @@ a {
 p { 
   color:#eceff4; 
   font-size: 20px;
+  font-family: "RobotoMono-Regular";
+}
+pre { 
+  color:#eceff4; 
   font-family: "RobotoMono-Regular";
 }

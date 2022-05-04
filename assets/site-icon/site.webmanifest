@@ -1,9 +1,9 @@
 {
-    "name": "Himikaturu's Home",
-    "short_name": "Himikaturu's Home",
+    "name": "Himikaturu's Site",
+    "short_name": "Himikaturu's Site",
     "icons": [
         {
-            "src": "/assets/site-icon/android-chrome-144x144.png",
+            "src": "https://alisyus.xyz/assets/site-icon/android-chrome-144x144.png",
             "sizes": "144x144",
             "type": "image/png"
         }

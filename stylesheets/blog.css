@@ -7,12 +7,17 @@
 h1 {
   color:#eceff4;
   font-size: 35px;
-  font-family: "RobotoMono-Bold";
+  font-family: "RobotoMono-Light";
 }
 h2 {
   color:#eceff4;
   font-size: 25px;
-  font-family: "RobotoMono-Bold";
+  font-family: "RobotoMono-Light";
+}
+h4 { 
+  color:#d8dee9; 
+  font-size: 18px;
+  font-family: "RobotoMono-Italic";
 }
 body {
   background-color: #2E3440;
@@ -26,7 +31,7 @@ a {
 }
 p { 
   color:#d8dee9; 
-  font-size: 20px;
+  font-size: 15px;
   font-family: "RobotoMono-Bold";
 }
 hr.new4 {

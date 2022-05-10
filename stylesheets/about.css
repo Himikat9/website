@@ -1,8 +1,9 @@
-@font-face{ font-family:RobotoMono-Bold; src:url(/assets/fonts/RobotoMono-Bold.ttf); }
-@font-face{ font-family:RobotoMono-BoldItalic; src:url(/assets/fonts/RobotoMono-BoldItalic.ttf); }
-@font-face{ font-family:RobotoMono-Italic; src:url(/assets/fonts/RobotoMono-Italic.ttf); }
-@font-face{ font-family:RobotoMono-Light; src:url(/assets/fonts/RobotoMono-Light.ttf); }
-@font-face{ font-family:RobotoMono-LightItalic; src:url(/assets/fonts/RobotoMono-LightItalic.ttf); }  
+@font-face{ font-family:Bold; src:url(/assets/fonts/Bold.ttf); }
+@font-face{ font-family:Italic; src:url(/assets/fonts//Italic.ttf); }
+@font-face{ font-family:Bold-Italic; src:url(/assets/fonts//Bold-Italic.ttf); }
+@font-face{ font-family:Light; src:url(/assets/fonts//Light.ttf); }
+@font-face{ font-family:Light-Italic; src:url(/assets/fonts//Light-Italic.ttf); }  
+@font-face{ font-family:Main; src:url(/assets/fonts//Main.ttf); }  
 
 body {
   background-color: #2E3440;
@@ -11,21 +12,21 @@ body {
 h1 {
   color:#eceff4;
   font-size: 35px;
-  font-family: "RobotoMono-Light";
+  font-family: "Light";
 }
 h2 {
   color:#eceff4;
   font-size: 25px;
-  font-family: "RobotoMono-LightItalic";
+  font-family: "LightItalic";
 }
 a {
   color: #81A1C1;
   font-size: 20px;
   text-decoration: none;
-  font-family: "RobotoMono-Light";
+  font-family: "Light";
 }
 p { 
   color:#eceff4; 
   font-size: 20px;
-  font-family: "RobotoMono-Light";
+  font-family: "Light";
 }

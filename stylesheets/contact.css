@@ -8,12 +8,13 @@
 h1 {
   color:#eceff4;
   font-size: 35px;
-  font-family: "Bold-Italic";
+  font-family: "Main";
 }
 h2 {
   color:#eceff4;
   font-size: 25px;
-  font-family: "Italic";
+  font-family: "Main";
+  text-align: left;
 }
 body {
   background-color: #2E3440;

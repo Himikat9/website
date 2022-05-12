@@ -37,3 +37,8 @@ pre {
 hr.new4 {
   border: 1px solid #4c566a;
 }
+i { 
+  color:#4c566a; 
+  font-family: "Light";
+  font-size: 20px;
+}

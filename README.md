@@ -1,4 +1,4 @@
-## Himikaturu's Personal Website Source Code ⚡️
+## Himikaturu's Personal Website Source Code
 
 #### 1.1 Introduction
 
@@ -6,7 +6,7 @@ I've Hosted this website online using the Github pages, This all my source code 
 
 #### 1.2 License
 
-Himikat9/alisyus.xyz Is Licensed Under the GNU GPL 3.0
+Himikaturu's Personal Website Is Licensed Under the GNU GPL 3.0 
 
 ---
 

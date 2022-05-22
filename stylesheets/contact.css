@@ -17,10 +17,11 @@ h2 {
 }
 body {
   background-color: #2E3440;
+  text-align: center;
 }
 a {
   color: #81A1C1;
-  font-size: 20px;
+  font-size: 25px;
   text-decoration: none;
   font-family: "Light";
 }

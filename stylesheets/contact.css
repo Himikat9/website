@@ -17,6 +17,8 @@ h2 {
 }
 body {
   background-color: #2E3440;
+  width: 35em;
+  margin: 0 auto;
 }
 a {
   color: #81A1C1;

@@ -9,32 +9,33 @@
 h1 {
   color:#eceff4;
   font-size: 35px;
-  font-family: "Light";
+  font-family: "Main";
 }
 h2 {
   color:#eceff4;
-  font-size: 25px;
-  font-family: "Light";
+  font-size: 20px;
+  font-family: "Main";
 }
 h4 { 
   color:#d8dee9; 
   font-size: 18px;
-  font-family: "Italic";
+  font-family: "Light";
 }
 body {
   background-color: #2E3440;
-  text-align: center;
+  width: 35em;
+  margin: 0 auto;
 }
 a {
   color: #81A1C1;
   font-size: 20px;
   text-decoration: none;
-  font-family: "Bold";
+  font-family: "Main";
 }
 p { 
   color:#d8dee9; 
   font-size: 15px;
-  font-family: "Bold";
+  font-family: "Main";
 }
 hr.new4 {
   border: 1px solid #4c566a;

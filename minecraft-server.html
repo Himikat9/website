@@ -22,18 +22,74 @@
    <body>
       <p><a href="https://alisyus.xyz/contact"><--</a>
       <h2>Minecraft Server</h2> 
-      <p>IP: jameskitt616.one:2556</p> 
+      <style>
+         .tooltip {
+           position: relative;
+           display: inline-block;
+         }
+         
+         .tooltip .tooltiptext {
+           visibility: hidden;
+           width: 140px;
+           background-color: #555;
+           color: #fff;
+           text-align: center;
+           border-radius: 6px;
+           padding: 5px;
+           position: absolute;
+           z-index: 1;
+           bottom: 150%;
+           left: 50%;
+           margin-left: -75px;
+           opacity: 0;
+           transition: opacity 0.3s;
+         }
+         
+         .tooltip .tooltiptext::after {
+           content: "";
+           position: absolute;
+           top: 100%;
+           left: 50%;
+           margin-left: -5px;
+           border-width: 5px;
+           border-style: solid;
+           border-color: #555 transparent transparent transparent;
+         }
+         
+         .tooltip:hover .tooltiptext {
+           visibility: visible;
+           opacity: 1;
+         }
+         </style>
+         </head>
+         <body>
+         
+         <input type="text" value="jameskitt616.one:25568" id="myInput">
+         
+         <div class="tooltip">
+         <button onclick="myFunction()" onmouseout="outFunc()">
+           <span class="tooltiptext" id="myTooltip">Copy to clipboard</span>
+           Copy Server Address
+           </button>
+         </div>
+         
+         <script>
+         function myFunction() {
+           var copyText = document.getElementById("myInput");
+           copyText.select();
+           copyText.setSelectionRange(0, 99999);
+           navigator.clipboard.writeText(copyText.value);
+           
+           var tooltip = document.getElementById("myTooltip");
+           tooltip.innerHTML = "Copied: " + copyText.value;
+         }
+         
+         function outFunc() {
+           var tooltip = document.getElementById("myTooltip");
+           tooltip.innerHTML = "Copy to clipboard";
+         }
+         </script>
       <p>Status: Online</p> 
       <p>Version: 1.18.2 Java</p>
- 
-      &nbsp;
-      <h2>Rules</h2>
-      <p>Rule #1 Keep the chat civil and appropriate.</p>
-      <p>Rule #2 Hacking is not allowed</p>
-      <p>Rule #3 Please use English in public chat, Speaking other languages in the global chat except English is not allowed.</p>
-      <p>Rule #4 No asking for op perms the Owner only chooses who to op.</p>
-      <p>Rule #5 All players must have appropriate usernames that are not offensive.</p>
-      <p>Rule #6 Do not ask for free stuff or beg for items.</p>
-      <p>Rule #7 Any threat or attempt to DOX/DDoS/SWAT another player or server will result in a permanent ban.</p>
    </body>
 </html>

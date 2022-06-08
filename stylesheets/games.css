@@ -6,7 +6,7 @@
 @font-face{ font-family:Main; src:url(/assets/fonts//Main.ttf); }  
 
 body {
-  background-color: #1d1e20;
+  background-color: #2E3440;
   text-align: center;
 } 
 h1 {
@@ -20,7 +20,7 @@ h2, h3 {
   font-family: "Light";
 }
 a {
-  color: #ECEFF4;
+  color: #81a1c1;
   font-size: 23px;
   text-decoration: none;
   font-family: "Main";

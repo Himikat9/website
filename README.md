@@ -1,13 +1,6 @@
-## Himikaturu's Personal Website Source Code
+### alisyus.xyz
+I developed this website from scratch using HTML and CSS and hosted it on Github Pages. This is all my source code, which you may fork, contribute, and so on.
 
-#### 1.1 Introduction
+#### License
 
-I've Hosted this website online using the Github pages, This all my source code which you can fork, Contribute, etc.
-
-#### 1.2 License
-
-Himikaturu's Personal Website Is Licensed Under the GNU GPL 3.0 
-
----
-
-This website was built using HTML5 & CSS By scratch. 
+> https://github.com/Himikat9/alisyus.xyz/blob/main/LICENSE

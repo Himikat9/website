@@ -4,36 +4,38 @@
 @font-face{ font-family:Light; src:url(/assets/fonts//Light.ttf); }
 @font-face{ font-family:Light-Italic; src:url(/assets/fonts//Light-Italic.ttf); }  
 @font-face{ font-family:Main; src:url(/assets/fonts//Main.ttf); }  
+@font-face{ font-family:Minecraft; src:url(/assets/fonts/minecraft_font.ttf); }  
 
 h1 {
   color:#eceff4;
   font-size: 35px;
-  font-family: "Main";
+  font-family: "Minecraft";
 }
 h2 {
   color:#eceff4;
   font-size: 25px;
-  font-family: "Main";
+  font-family: "Minecraft";
 }
 body {
-  background-color: #2E3440;
+  text-align: center;
+  background-image: url(https://files.catbox.moe/ldwoyh.png);
 }
 a {
   color: #81A1C1;
   font-size: 25px;
   text-decoration: none;
-  font-family: "Light";
+  font-family: "Minecraft";
 }
 p { 
   color:#eceff4; 
   font-size: 20px;
-  font-family: "Light";
+  font-family: "Minecraft";
 }
 hr.new4 {
   border: 1px solid #4c566a;
 }
 i { 
   color:#4c566a; 
-  font-family: "Light";
+  font-family: "Minecraft";
   font-size: 20px;
 }

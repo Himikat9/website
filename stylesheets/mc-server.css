@@ -6,27 +6,27 @@
 @font-face{ font-family:minecraft; src:url(/assets/fonts/minecraft.ttf); }  
 
 h1 {
-  color:#d8dee9;
+  color:#919191;
   font-size: 35px;
   font-family: "minecraft";
 }
 h2 {
-  color:#d8dee9;
+  color:#919191;
   font-size: 25px;
   font-family: "minecraft";
 }
 body {
   text-align: center;
-  background-image: url(https://files.catbox.moe/ldwoyh.png);
+  background-color: #292929;
 }
 a {
-  color: #d8dee9;
+  color: #919191;
   font-size: 25px;
   text-decoration: none;
   font-family: "minecraft";
 }
 p { 
-  color:#d8dee9; 
+  color:#919191; 
   font-size: 20px;
   font-family: "minecraft";
 }

@@ -42,3 +42,8 @@ pre {
 hr.new4 {
   border: 1px solid #4c566a;
 }
+i { 
+  color:#eceff4; 
+  font-family: "Main";
+  font-size: 20px;
+}

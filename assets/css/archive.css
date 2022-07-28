@@ -6,12 +6,12 @@
 @font-face{ font-family:Main; src:url(/assets/fonts//Main.ttf); }  
 
 h1 {
-  color:#eceff4;
+  color:#232527;
   font-size: 35px;
   font-family: "Italic";
 }
 h3 {
-  color:#eceff4;
+  color:#899199;
   font-size: 20px;
   font-family: "Italic";
 }
@@ -25,7 +25,7 @@ a {
   font-family: "Light";
 }
 p { 
-  color:#eceff4; 
+  color:#899199; 
   font-size: 20px;
   font-family: "Light";
 }

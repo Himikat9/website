@@ -7,32 +7,32 @@
  
 
 h1 {
-  color:#eceff4;
+  color:#899199;
   font-size: 35px;
   font-family: "Main";
 }
 h2 {
-  color:#eceff4;
+  color:#899199;
   font-size: 20px;
   font-family: "Main";
 }
 h4 { 
-  color:#d8dee9; 
+  color:#899199; 
   font-size: 18px;
   font-family: "Light";
 }
 body {
-  background-color: #2E3440;
+  background-color: #232527;
   text-align: center;
 }
 a {
-  color: #81A1C1;
+  color: #899199;
   font-size: 20px;
   text-decoration: none;
   font-family: "Main";
 }
 p { 
-  color:#d8dee9; 
+  color:#899199; 
   font-size: 15px;
   font-family: "Main";
 }

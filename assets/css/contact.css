@@ -6,28 +6,28 @@
 @font-face{ font-family:Main; src:url(/assets/fonts//Main.ttf); }  
 
 h1 {
-  color:#eceff4;
+  color:#232527;
   font-size: 35px;
   font-family: "Main";
 }
 h2 {
-  color:#eceff4;
+  color:#899199;
   font-size: 25px;
   font-family: "Main";
 }
 body {
-  background-color: #2E3440;
+  background-color: #232527;
   width: 35em;
   margin: 0 auto;
 }
 a {
-  color: #81A1C1;
+  color: #899199;
   font-size: 25px;
   text-decoration: none;
   font-family: "Main";
 }
 p { 
-  color:#eceff4; 
+  color:#899199; 
   font-size: 20px;
   font-family: "Main";
 }
@@ -35,7 +35,7 @@ hr.new4 {
   border: 1px solid #4c566a;
 }
 i { 
-  color: #4C566A;  
+  color: #899199;  
   font-family: "Main";
   font-size: 36px;
 }

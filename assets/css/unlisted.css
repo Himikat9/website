@@ -6,27 +6,27 @@
 @font-face{ font-family:Main; src:url(/assets/fonts//Main.ttf); }  
 
 body {
-  background-color: #2E3440;
+  background-color: #232527;
   text-align: left;
 } 
 h1 {
-  color:#eceff4;
+  color:#899199;
   font-size: 20px;
   font-family: "Light";
 }
 h2, h3 {
-  color:#eceff4;
+  color:#899199;
   font-size: 30px;
   font-family: "Light";
 }
 a {
-  color: #81a1c1;
+  color: #899199;
   font-size: 23px;
   text-decoration: none;
   font-family: "Light";
 }
 p { 
-  color:#eceff4; 
+  color:#899199; 
   font-size: 20px;
   font-family: "Light";
 }

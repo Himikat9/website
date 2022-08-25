@@ -6,29 +6,29 @@
 @font-face{ font-family:Main; src:url(/assets/fonts//Main.ttf); }  
 
 h1 {
-  color:#232527;
+  color:#FFFFFF;
   font-size: 35px;
   font-family: "Italic";
 }
 h3 {
-  color:#899199;
+  color:#FFFFFF;
   font-size: 20px;
   font-family: "Italic";
 }
 body {
-  background-color: #2E3440;
+  background-color: #171819;
 }
 a {
-  color: #81A1C1;
+  color: #FFFFFF;
   font-size: 22px;
   text-decoration: none;
   font-family: "Light";
 }
 p { 
-  color:#899199; 
+  color:#FFFFFF; 
   font-size: 20px;
   font-family: "Light";
 }
 hr.new4 {
-  border: 1px solid #4c566a;
+  border: 1px solid #808080;
 }

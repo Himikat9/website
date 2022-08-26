@@ -3,31 +3,38 @@
 @font-face{ font-family:Bold-Italic; src:url(/assets/fonts//Bold-Italic.ttf); }
 @font-face{ font-family:Light; src:url(/assets/fonts//Light.ttf); }
 @font-face{ font-family:Light-Italic; src:url(/assets/fonts//Light-Italic.ttf); }  
-@font-face{ font-family:minecraft; src:url(/assets/fonts/minecraft.ttf); }  
+@font-face{ font-family:Main; src:url(/assets/fonts//Main.ttf); }  
+
 
 h1 {
-  color:#232527;
+  color:#FFFFFF;
   font-size: 35px;
-  font-family: "minecraft";
+  font-family: "Bold";
 }
 h2 {
-  color:#919191;
+  color:#FFFFFF;
   font-size: 25px;
-  font-family: "minecraft";
+  font-family: "Bold";
 }
 body {
   text-align: center;
-  background-color: #292929;
+  background-color: #171819;
 }
 a {
-  color: #919191;
-  font-size: 25px;
-  font-family: "minecraft";
+  color: #FFFFFF;
+  font-size: 22px;
+  font-family: "Main";
+  text-decoration: none;
 }
 p { 
-  color:#919191; 
+  color:#FFFFFF; 
   font-size: 20px;
-  font-family: "minecraft";
+  font-family: "Main";
+}
+f { 
+  color:#FFFFFF; 
+  font-size: 21px;
+  font-family: "Bold";
 }
 hr.new4 {
   border: 1px solid #4c566a;
